@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; FutureLearnHub</title>
+	<atom:link href="/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2024 13:04:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Graphic Design Fundamentals</title>
+		<link>/product/graphic-design-fundamentals/</link>
+					<comments>/product/graphic-design-fundamentals/#respond</comments>
+		
+		<dc:creator><![CDATA[manoj]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 13:03:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=25779</guid>
+
+					<description><![CDATA[Field: Design / Creativity Description: Learn the basics of graphic design, including typography, color theory, and software like Adobe Illustrator.]]></description>
+										<content:encoded><![CDATA[<p>Field: Design / Creativity<br />
+Description: Learn the basics of graphic design, including typography, color theory, and software like Adobe Illustrator.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/graphic-design-fundamentals/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">25779</post-id>	</item>
+		<item>
+		<title>Web Development for Beginners</title>
+		<link>/product/web-development-for-beginners/</link>
+					<comments>/product/web-development-for-beginners/#respond</comments>
+		
+		<dc:creator><![CDATA[manoj]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 12:51:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=25772</guid>
+
+					<description><![CDATA[Field: Technology / Programming Description: Introduction to HTML, CSS, JavaScript, and basic web development tools.]]></description>
+										<content:encoded><![CDATA[<p>Field: Technology / Programming<br />
+Description: Introduction to HTML, CSS, JavaScript, and basic web development tools.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/web-development-for-beginners/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">25772</post-id>	</item>
+	</channel>
+</rss>

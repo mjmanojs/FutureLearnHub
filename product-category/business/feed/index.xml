@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Business &#8211; FutureLearnHub</title>
+	<atom:link href="/product-category/business/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Mon, 25 Nov 2024 13:06:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Personal Finance and Investment Strategies</title>
+		<link>/product/personal-finance-and-investment-strategies/</link>
+					<comments>/product/personal-finance-and-investment-strategies/#respond</comments>
+		
+		<dc:creator><![CDATA[manoj]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 13:06:23 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=25781</guid>
+
+					<description><![CDATA[Field: Finance / Business Description: A course teaching personal budgeting, saving, and strategies for investing in stocks and real estate.]]></description>
+										<content:encoded><![CDATA[<p>Field: Finance / Business<br />
+Description: A course teaching personal budgeting, saving, and strategies for investing in stocks and real estate.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/personal-finance-and-investment-strategies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">25781</post-id>	</item>
+		<item>
+		<title>Digital Marketing Mastery</title>
+		<link>/product/digital-marketing-mastery/</link>
+					<comments>/product/digital-marketing-mastery/#respond</comments>
+		
+		<dc:creator><![CDATA[manoj]]></dc:creator>
+		<pubDate>Mon, 25 Nov 2024 12:59:52 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=25775</guid>
+
+					<description><![CDATA[Field: Business / Marketing Description: In-depth course covering SEO, SEM, social media marketing, and email marketing.]]></description>
+										<content:encoded><![CDATA[<p>Field: Business / Marketing<br />
+Description: In-depth course covering SEO, SEM, social media marketing, and email marketing.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/digital-marketing-mastery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">25775</post-id>	</item>
+	</channel>
+</rss>
